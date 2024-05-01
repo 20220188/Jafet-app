@@ -57,23 +57,23 @@ export default function App() {
       />
 
       <Test2
-        texto="Sumar"
+        texto="+"
         funcion={sumar}
         color='green'
       />
       <Test2
-        texto="Restar"
+        texto="–"
         funcion={restar}
         color='blue'
       />
 
       <Test2
-        texto="Multiplicar"
+        texto="*"
         funcion={multiplicar}
         color='orange'
       />
       <Test2
-        texto="Dividir"
+        texto="/"
         funcion={dividir}
         color='pink'
       />
